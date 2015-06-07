@@ -1,4 +1,5 @@
 #include <set>
+#include <unistd.h>
 
 #include "bulk_operate.h"
 #include "mem_matrix_store.h"
