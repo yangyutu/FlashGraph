@@ -1,0 +1,9 @@
+1) How CPUs access the SSD array? 
+
+2) Can one CPU aceess all the SSDs at the same speed?
+
+3) How main memory is used for large scale computation (where the data cannot fit into the memory)
+
+4) How data is partitioned among the SSDs?
+
+5) How the computation tasks partitioned among the multiple CPUs?
